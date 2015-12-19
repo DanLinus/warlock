@@ -1,1 +1,1 @@
-Sistema Para cadastros e Emprestimos de Livros do THC
+Sistema Para cadastros e emprestimos de livros do THC
